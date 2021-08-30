@@ -1,7 +1,7 @@
-### Hi there, I'm Aurangzeb Khan - aka [Khan] 👋
+## Hi there, I'm Aurangzeb Khan - aka [Khan] 👋
 
-## I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!
-## I extensively research on predicting Mental Health Issues using Statistical Models
+### I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!
+### I extensively research on predicting Mental Health Issues using Statistical Models
 
 - 🌱 I’m constantly learning everyday  😀
 - 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python & Azure
