@@ -1,6 +1,7 @@
 ## Hi there, I'm Aurangzeb Khan - aka [Khan] 👋
 
-### I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!
+### I'm a Data Enthusiast, Banking/Fintech Professional, I have extensive experience working with large datasets using Big Data and Quantitative/Statistical methods
+### I have extensive experience detecting International Trade-based money laundering & related crimes using Technology 
 ### I extensively research on predicting Mental Health Issues using Statistical Models
 
 - 🌱 I’m constantly learning everyday  😀
