@@ -26,9 +26,9 @@
 -- 📕 Latest Blog Posts
 <br />
 <!-- BLOG-POST-LIST:START -->
--- [Data Analysis Case Studies-1](https://github.com/mavendataguy/DataAnalysis)
+-- [Data Analysis Case Studies](https://github.com/mavendataguy/DataAnalysis)
 <br/>
--- [Data Analysis using SQL-Lite-2](https://github.com/mavendataguy/SQL)
+-- [Data Analysis using SQL-Lite](https://github.com/mavendataguy/SQL)
 <!-- BLOG-POST-LIST:END -->
 <br />
 -- [LinkedIn]: https://www.linkedin.com/in/aurangzeb-khan-10531446/
